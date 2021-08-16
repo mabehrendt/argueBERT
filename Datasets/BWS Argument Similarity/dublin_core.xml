@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author">Thakur,&#x20;Nandan</dcvalue>
+  <dcvalue element="contributor" qualifier="author">Daxenberger,&#x20;Johannes</dcvalue>
+  <dcvalue element="contributor" qualifier="author">Gurevych,&#x20;Iryna</dcvalue>
+  <dcvalue element="description" qualifier="none" language="en_US">The&#x20;BWS&#x20;Argument&#x20;Similarity&#x20;Corpus&#x20;includes&#x20;3,400&#x20;sentence&#x20;pairs&#x20;for&#x20;8&#x20;controversial&#x20;topics&#x20;with&#x20;425&#x20;argument&#x20;pairs&#x20;each&#x20;for&#x20;every&#x20;topic.&#x20;Each&#x20;argument-pair&#x20;was&#x20;annotated&#x20;via&#x20;crowdsourcing&#x20;using&#x20;the&#x20;Best-Worst&#x20;Scaling&#x20;(BWS)&#x20;technique.&#x20;See&#x20;the&#x20;README.txt&#x20;in&#x20;the&#x20;archive&#x20;for&#x20;a&#x20;detailed&#x20;data&#x20;format&#x20;description.</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+  <dcvalue element="rights" qualifier="uri">https:&#x2F;&#x2F;rightsstatements.org&#x2F;vocab&#x2F;InC&#x2F;1.0&#x2F;</dcvalue>
+  <dcvalue element="subject" qualifier="none" language="en_US">argument&#x20;similarity</dcvalue>
+  <dcvalue element="subject" qualifier="none" language="en_US">pairwise&#x20;regression</dcvalue>
+  <dcvalue element="subject" qualifier="none" language="en_US">argument&#x20;pairs</dcvalue>
+  <dcvalue element="subject" qualifier="none" language="en_US">cross-topic</dcvalue>
+  <dcvalue element="subject" qualifier="classification" language="en_US">409-05&#x20;Interaktive&#x20;und&#x20;intelligente&#x20;Systeme,&#x20;Bild-&#x20;und&#x20;Sprachverarbeitung,&#x20;Computergraphik&#x20;und&#x20;Visualisierung</dcvalue>
+  <dcvalue element="subject" qualifier="ddc">004</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_US">BWS&#x20;Argument&#x20;Similarity&#x20;Corpus</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_US">Text</dcvalue>
+  <dcvalue element="description" qualifier="version" language="en_US">v1.0</dcvalue>
+  <dcvalue element="date" qualifier="issued">2020-10</dcvalue>
+</dublin_core>
