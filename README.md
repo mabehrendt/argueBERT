@@ -1,6 +1,6 @@
 # ArgueBERT
 ArgueBERT is a pre-trained and fine-tuned model based on Sentence BERT by Reimers and Gurevych [[1]](https://aclanthology.org/D19-1410/) to measure the similarity of arguments.
-You can download the pre-trained models here:
+You can download the pre-trained PyTorch models here:
 * [Similarity prediction argueBERT](https://uni-duesseldorf.sciebo.de/s/bxaCDV5B9SBzFqH/download)
 * [Similarity prediction argueBERT<sub>BASE</sub>](https://uni-duesseldorf.sciebo.de/s/ZTkI8umuMsd5nxv/download)
 * [Argument order prediction argueBERT](https://uni-duesseldorf.sciebo.de/s/qv8IJ1pjrSBIuGE/download)
