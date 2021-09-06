@@ -1,10 +1,10 @@
 # ArgueBERT
 ArgueBERT is a pre-trained and fine-tuned model based on Sentence BERT by Reimers and Gurevych [[1]](https://aclanthology.org/D19-1410/) to measure the similarity of arguments.
 You can download the pre-trained models here:
-* [Similarity prediction argueBERT](https://docs.google.com/uc?export=download&id=1IO-PE6YRI3SufFe0T7DHEht0jsFFLyrm&confirm=KiBX&id=1IO-PE6YRI3SufFe0T7DHEht0jsFFLyrm)
-* [Similarity prediction argueBERT<sub>BASE</sub>](https://docs.google.com/uc?export=download&id=1vdnF7ec-88jwEOX4L2HX6gbna9AyjX0k&confirm=k5Bt&id=1vdnF7ec-88jwEOX4L2HX6gbna9AyjX0k)
-* [Argument order prediction argueBERT](https://docs.google.com/uc?export=download&id=1Hps45usCYU855I5dCZSYWLv2oPhLOTWM&confirm=r3hA&id=1Hps45usCYU855I5dCZSYWLv2oPhLOTWM)
-* [Argument graph edge validation argueBERT](https://docs.google.com/uc?export=download&id=1dZocyeAL2RLcA-Sod92SwxkpyJgqueNT&confirm=iKjt&id=1dZocyeAL2RLcA-Sod92SwxkpyJgqueNT)
-* [Baseline SBERT](https://docs.google.com/uc?export=download&id=14nOUT6XgDjnwTXmlqPm3OXcJ56AnjEeg&confirm=Hi7H&id=14nOUT6XgDjnwTXmlqPm3OXcJ56AnjEeg)
+* [Similarity prediction argueBERT](https://uni-duesseldorf.sciebo.de/s/bxaCDV5B9SBzFqH)
+* [Similarity prediction argueBERT<sub>BASE</sub>](https://uni-duesseldorf.sciebo.de/s/ZTkI8umuMsd5nxv)
+* [Argument order prediction argueBERT](https://uni-duesseldorf.sciebo.de/s/qv8IJ1pjrSBIuGE)
+* [Argument graph edge validation argueBERT](https://uni-duesseldorf.sciebo.de/s/HquFKqgrKmzwlCd)
+* [Baseline SBERT](https://uni-duesseldorf.sciebo.de/s/P5l3VKXyKEV7QSb)
 
 [1] Reimers, N., & Gurevych, I. (2019, November). Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks. In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP) (pp. 3982-3992).
