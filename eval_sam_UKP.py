@@ -22,15 +22,15 @@ pairs_dict = {}
 no_pairs_list = []
 set_number = 4
 # read in sentence dictionary
-with open("../../Datasets/UKP/ukp_testset"+str(set_number)+"_sentences.txt","r") as f:
+with open("./Datasets/UKP/ukp_testset"+str(set_number)+"_sentences.txt","r") as f:
     s = f.read()
     sentence_dict = eval(s)
 # read in pairs dictionary
-with open("../../Datasets/UKP/ukp_testset"+str(set_number)+"_pairs.txt","r") as f:
+with open("./Datasets/UKP/ukp_testset"+str(set_number)+"_pairs.txt","r") as f:
     s = f.read()
     pairs_dict = eval(s)
 # read in no pairs list
-with open("../../Datasets/UKP/nopairs_testset"+str(set_number)+".txt","r") as f:
+with open("./Datasets/UKP/nopairs_testset"+str(set_number)+".txt","r") as f:
     s = f.read()
     no_pairs_list = eval(s)
 
