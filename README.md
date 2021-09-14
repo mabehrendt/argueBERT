@@ -8,3 +8,28 @@ You can download the pre-trained PyTorch models here:
 * [Baseline SBERT](https://uni-duesseldorf.sciebo.de/s/P5l3VKXyKEV7QSb/download)
 
 [1] Reimers, N., & Gurevych, I. (2019, November). Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks. In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP) (pp. 3982-3992).
+
+Code to create pre-training data and run pre-training from: https://github.com/google-research/bert
+
+Used settings for data creation:
+
+Setting|Value
+---|---
+vocab_file|uncased_L-8_H-512_A-8/vocab.txt
+do_lower_case|True
+max_seq_length|128
+max_predictions_per_seq|5
+masked_lm_prob|0.15
+randon_seed|12345
+dupe_factor|10
+
+Used settings for pre-training:
+
+Setting|Value
+---|---
+BERT model|BERT medium uncased, BERT base uncased
+learning rate|1e-4, 2e-5
+max_seq_length|128
+max_predictions_per_seq|5
+train_batch_size|32
+eval_batch_size|8
